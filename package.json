@@ -1,0 +1,17 @@
+{
+  "name": "node-ldap",
+  "version": "0.0.0",
+  "description": "A example of how to use LDAP with HTTP Basic Authentication",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew White <andrew.white@unboxedconsulting.com",
+  "license": "MIT",
+  "dependencies": {
+    "basic-auth": "0.0.1",
+    "express": "^4.3.0",
+    "hbs": "^2.6.0",
+    "ldapauth": "^2.2.4"
+  }
+}
